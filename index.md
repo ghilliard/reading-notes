@@ -4,8 +4,8 @@ I had my doubts, but here we are.
 
 People will often ask me
 < "What's your preferred mindset in the workplace"
-With such a specific question, I feel like finally giving a specific answer. ## A GROWTH MINDSET
-#### Having a growth mindset is all about working in a team 
+With such a specific question, I feel like finally giving a specific answer... ## A GROWTH MINDSET
+#### Having a growth mindset is all about continuing to better yourself for the good of your team and the overall growth of the organization. Embrace cahllenges you faces with unique solutions while continuously adapting to find the **best** solutions 
 
 ### Markdown
 
