@@ -28,4 +28,4 @@ Gabe loves sports, movies, good food, his wife and his dog. He cannot wait to ge
 Find him on [GitHub](https://github.com/ghilliard) + [twitter](https://twitter.com/realtenaciousg) 👋
 
 - (that's it, that's the only place you can find him)
-![Image](https://user-images.githubusercontent.com/87675445/126246029-8619773c-4034-4282-986d-4d1969df55e7.png)
+<img width="762" alt="Screen_Shot_2019-04-25_at_10 28 56_AM" src="https://user-images.githubusercontent.com/87675445/126246099-ff6cf2af-fb53-46ae-a55d-d1a5f645915a.png">
