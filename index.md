@@ -6,7 +6,9 @@ People will often ask me,
 > What's your preferred mindset in the workplace?
 
 With such a specific question, I feel like finally giving a specific answer...
-#### Having a growth mindset is all about continuing to better yourself for the good of your team and the overall growth of the organization. Embrace challenges you face with unique solutions while continuously adapting to find the *best* solutions.
+Having a growth mindset is all about continuing to better yourself for the good of your team and the overall growth of the organization. Embrace challenges you face with unique solutions while continuously adapting to find the *best* solutions. 
+
+It's important for me to keep reminding myself of how I can stay in a growth mindset:
 - Adaptability is Key
 - Be a team player
 - Avoid stagnation and repetition
@@ -15,15 +17,7 @@ With such a specific question, I feel like finally giving a specific answer...
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
