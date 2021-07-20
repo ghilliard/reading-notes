@@ -2,18 +2,19 @@
 
 I had my doubts, but here we are.
 
+
 People will often ask me,
 > What's your preferred mindset in the workplace?
-
+![Image](https://i.redd.it/4n5x4xlngo331.jpg)
 With such a specific question, I feel like finally giving a specific answer...
-Having a growth mindset is all about continuing to better yourself for the good of your team and the overall growth of the organization. Embrace challenges you face with unique solutions while continuously adapting to find the *best* solutions. 
+Having a growth mindset is all about continuing to better yourself for the good of your team and the overall growth of the organization. Embrace challenges you face with unique solutions while continuously adapting to find the **best** solutions. 
 
 It's important for me to keep reminding myself of how I can stay in a growth mindset:
 - Adaptability is Key
 - Be a team player
 - Avoid stagnation and repetition
 
-### Markdown
+### More about Gabe
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,7 +25,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://i.redd.it/4n5x4xlngo331.jpg)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
