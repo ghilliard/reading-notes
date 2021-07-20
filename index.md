@@ -16,18 +16,12 @@ It's important for me to keep reminding myself of how I can stay in a growth min
 
 ### More about Gabe
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gabe is a fun-loving guy who just loves juice and the bachelor(ette) and he cannot wait to get to know YOU! ☝️
 
 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
