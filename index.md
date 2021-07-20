@@ -2,6 +2,8 @@
 
 I had my doubts, but here we are.
 
+My name is Gabe and I'm a fun-loving guy who just wants to watch the Bachelor(ette) while enjoying a nice cup of juice.
+
 People will often ask me,
 > What's your preferred mindset in the workplace?
 ![Image](https://i.redd.it/4n5x4xlngo331.jpg)
@@ -16,18 +18,11 @@ It's important for me to keep reminding myself of how I can stay in a growth min
 
 ### More about Gabe
 
-Gabe is a fun-loving guy who just loves juice and the bachelor(ette) and he cannot wait to get to know YOU! ☝️
+Gabe loves sports, movies, good food, his wife and his dog. He cannot wait to get to know YOU! ☝️
 
 
 
-
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ghilliard/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find him on [GitHub]() Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
