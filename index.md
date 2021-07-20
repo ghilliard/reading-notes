@@ -25,4 +25,4 @@ Gabe loves sports, movies, good food, his wife and his dog. He cannot wait to ge
 
 ### Support or Contact
 
-Find him on [GitHub]() Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find him on [GitHub](https://github.com/ghilliard) [twitter](https://twitter.com/realtenaciousg) 👋
