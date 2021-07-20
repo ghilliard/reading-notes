@@ -30,9 +30,15 @@ Find him on [GitHub](https://github.com/ghilliard) + [twitter](https://twitter.c
 - (that's it, that's the only place you can find him)
 <img width="321" alt="Screen_Shot_2019-04-25_at_10 28 56_AM copy" src="https://user-images.githubusercontent.com/87675445/126246418-afdf4ff6-13b6-40c6-8848-437ab536262a.png">
 - line of text
+
 * line of text
+
 @ line of text
+
 + line of text
+
 : line of text
+
 = line of text
+
 > line of text
