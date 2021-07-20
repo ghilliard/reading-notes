@@ -2,10 +2,10 @@
 
 I had my doubts, but here we are.
 
-
 People will often ask me,
-> What's your preferred mindset in the workplace?
 ![Image](https://i.redd.it/4n5x4xlngo331.jpg)
+> What's your preferred mindset in the workplace?
+
 With such a specific question, I feel like finally giving a specific answer...
 Having a growth mindset is all about continuing to better yourself for the good of your team and the overall growth of the organization. Embrace challenges you face with unique solutions while continuously adapting to find the **best** solutions. 
 
