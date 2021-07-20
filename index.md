@@ -1,8 +1,11 @@
-# Welcome to my Website, CONGRATULATIONS
+# Welcome to _my_ website, CONGRATULATIONS!!
 
 I had my doubts, but here we are.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+People will often ask me
+< "What's your preferred mindset in the workplace"
+With such a specific question, I feel like finally giving a specific answer. ## A GROWTH MINDSET
+#### Having a growth mindset is all about working in a team 
 
 ### Markdown
 
