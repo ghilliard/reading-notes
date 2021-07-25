@@ -2,7 +2,7 @@
 
 ## Why it's important for Software Developers to be thoughtful about what Text Editors they use 
 
-- **Text Editors help personalize your workspace, and make coding easier**
+**Text Editors help personalize your workspace, and make coding easier**
 
 Some Text Editors will have their unique custumizations and features, but it's important to have the following:
 1. code completion 
@@ -19,7 +19,8 @@ Some Text Editors will have their unique custumizations and features, but it's i
 
 ## How to use your Terminal to navigate among your folders
 
-- **I want to explain the most relevant and basic navigation codes:**
+**I want to explain the most relevant and basic navigation codes:**
+
 1. cd
     - stands for "change directory"
     - use this command followed by the name of a folder to take you into that folder
