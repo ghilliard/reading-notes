@@ -20,7 +20,7 @@ Some Text Editors will have their unique custumizations and features, but it's i
 ## How to use your Terminal to navigate among your folders
 
 - **I want to explain the most relevant and basic navigation codes:**
-  - cd
+1. cd
     - stands for "change directory"
     - use this command followed by the name of a folder to take you into that folder
     `cd Documents`
@@ -29,13 +29,13 @@ Some Text Editors will have their unique custumizations and features, but it's i
     - if you need to go backwards between directories, use 
     `cd ..`
 
-  - ls
+2. ls
     - short for "list" 
     - if you need to know the folders you have available try the line "ls" by itself.
     `ls`
     - to see a list of folders within a folder, ex:`ls [interior folder name]`, you would have to be within the immediate folder that contains the desired folder you want to view the list of.
 
-  - pwd
+3. pwd
     - stands for "print working directory"
     - if you need to know where you currently are within your folders, use this line by itself and it will return where you are
     `pwd`
