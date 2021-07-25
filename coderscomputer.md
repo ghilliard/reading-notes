@@ -1,8 +1,8 @@
-# Coder's Computer
+# The Coder's Computer
 
-## It's important for Software Developers to be thoughtful about what Text Editors they use 
+## Why it's important for Software Developers to be thoughtful about what Text Editors they use 
 
-### Text Editors help personalize your workspace, and make coding easier
+- Text Editors help personalize your workspace, and make coding easier
 
 Some Text Editors will have their unique custumizations and features, but it's important to have the following:
 1. code completion 
