@@ -1,3 +1,19 @@
+# It's important for Software Developers to be thoughtful about what Text Editors they use 
+### Text Editors help personalize your workspace, and make coding easier
+
+Some Text Editors will have their unique custumizations and features, but it's important to have the following:
+1. code completion 
+  - helps assist you to find mistakes and avoid typos
+  - saves time
+2. themes
+  - help you read your code  
+  - reduce eye strain
+3. syntax highlighting
+  - colorizes certain text to make it more noticeable
+  - easy to read and distinguish among different types of code
+ 
+ 
+
 # It's important to know how to use your Terminal to navigate among your folders
 
 I want to explain the most relevant and basic navigation codes:
