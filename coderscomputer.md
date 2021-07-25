@@ -17,9 +17,9 @@ Some Text Editors will have their unique custumizations and features, but it's i
  
  
 
-# It's important to know how to use your Terminal to navigate among your folders
+## How to use your Terminal to navigate among your folders
 
-I want to explain the most relevant and basic navigation codes:
+- **I want to explain the most relevant and basic navigation codes:**
 1. cd
   - stands for "change directory"
   - use this command followed by the name of a folder to take you into that folder
